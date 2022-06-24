@@ -2,4 +2,3 @@
 console.log("Gbadamosi Ayomide .I");
 console.log("Height: 178cm");
 console.log("Country: Nigeria");
-alert('hello')
